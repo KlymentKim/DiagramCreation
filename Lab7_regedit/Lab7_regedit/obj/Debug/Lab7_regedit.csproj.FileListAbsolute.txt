@@ -1,0 +1,10 @@
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\bin\Debug\Lab7_regedit.exe.config
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\bin\Debug\Lab7_regedit.exe
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\bin\Debug\Lab7_regedit.pdb
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.Form1.resources
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.Properties.Resources.resources
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.csproj.GenerateResource.cache
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.csproj.CoreCompileInputs.cache
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.exe
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.pdb
+F:\Системное программирование\LABS\Lab7_regedit\Lab7_regedit\obj\Debug\Lab7_regedit.csprojAssemblyReference.cache
